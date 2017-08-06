@@ -1,0 +1,251 @@
+,Title,Lead_Role,Second_Lead,Director,Writer,Runtime,Year,Genres,Budget,Gross_USA,Ratings,Users_Rated,id
+0,The Shawshank Redemption, Tim Robbins, Morgan Freeman,Frank Darabont ,Stephen King,142,1994,Crime/Drama,25000000.0,28341469.0,9.2,1838778,tt0111161
+1,The Godfather, Marlon Brando, Al Pacino,Francis Ford Coppola ,Mario Puzo,175,1972,Crime/Drama,6000000.0,134821952.0,9.2,1255803,tt0068646
+2,The Godfather: Part II, Al Pacino, Robert De Niro,Francis Ford Coppola ,Francis Ford Coppola,202,1974,Crime/Drama,13000000.0,57300000.0,9.0,864866,tt0071562
+3,The Dark Knight, Christian Bale, Heath Ledger,Christopher Nolan ,Jonathan Nolan,152,2008,Action/Crime/Drama,185000000.0,533316061.0,9.0,1818703,tt0468569
+4,12 Angry Men, Henry Fonda, Lee J. Cobb,Sidney Lumet ,Reginald Rose,96,1957,Crime/Drama,350000.0,,8.9,500614,tt0050083
+5,Schindler's List, Liam Neeson, Ralph Fiennes,Steven Spielberg ,Thomas Keneally,195,1993,Biography/Drama/History,22000000.0,96067179.0,8.9,944250,tt0108052
+6,Pulp Fiction, John Travolta, Uma Thurman,Quentin Tarantino ,Quentin Tarantino,154,1994,Crime/Drama,8000000.0,107930000.0,8.9,1439479,tt0110912
+7,The Lord of the Rings: The Return of the King, Elijah Wood, Viggo Mortensen,Peter Jackson ,J.R.R. Tolkien,201,2003,Adventure/Drama/Fantasy,94000000.0,377019252.0,8.9,1317507,tt0167260
+8,"Il buono, il brutto, il cattivo", Clint Eastwood, Eli Wallach,Sergio Leone ,Luciano Vincenzoni,161,1966,Western,1200000.0,6100000.0,8.8,545549,tt0060196
+9,Fight Club, Brad Pitt, Edward Norton,David Fincher ,Chuck Palahniuk,139,1999,Drama,63000000.0,37023395.0,8.8,1473669,tt0137523
+10,The Lord of the Rings: The Fellowship of the Ring, Elijah Wood, Ian McKellen,Peter Jackson ,J.R.R. Tolkien,178,2001,Adventure/Drama/Fantasy,93000000.0,313837577.0,8.8,1338297,tt0120737
+11,Forrest Gump, Tom Hanks, Robin Wright,Robert Zemeckis ,Winston Groom,142,1994,Comedy/Drama/Romance,55000000.0,329691196.0,8.7,1383295,tt0109830
+12,Star Wars: Episode V - The Empire Strikes Back, Mark Hamill, Harrison Ford,Irvin Kershner ,Leigh Brackett,124,1980,Action/Adventure/Fantasy,18000000.0,290158751.0,8.7,918623,tt0080684
+13,Inception, Leonardo DiCaprio, Joseph Gordon-Levitt,Christopher Nolan ,Christopher Nolan,148,2010,Action/Adventure/Sci-Fi,160000000.0,292568851.0,8.7,1608845,tt1375666
+14,The Lord of the Rings: The Two Towers, Elijah Wood, Ian McKellen,Peter Jackson ,J.R.R. Tolkien,179,2002,Adventure/Drama/Fantasy,94000000.0,340478898.0,8.7,1194177,tt0167261
+15,One Flew Over the Cuckoo's Nest, Jack Nicholson, Louise Fletcher,Milos Forman ,Lawrence Hauben,133,1975,Drama,4400000.0,112000000.0,8.7,735674,tt0073486
+16,Goodfellas, Robert De Niro, Ray Liotta,Martin Scorsese ,Nicholas Pileggi,146,1990,Crime/Drama,25000000.0,46836394.0,8.7,792919,tt0099685
+17,The Matrix, Keanu Reeves, Laurence Fishburne,Lana Wachowski ,Lilly Wachowski,136,1999,Action/Sci-Fi,63000000.0,171383253.0,8.7,1324169,tt0133093
+18,Shichinin no samurai, Toshirô Mifune, Takashi Shimura,Akira Kurosawa ,Akira Kurosawa,207,1954,Adventure/Drama,2000000.0,269061.0,8.6,248412,tt0047478
+19,Star Wars, Mark Hamill, Harrison Ford,George Lucas ,George Lucas,121,1977,Action/Adventure/Fantasy,11000000.0,460935665.0,8.6,991370,tt0076759
+20,Cidade de Deus, Alexandre Rodrigues, Matheus Nachtergaele,Fernando Meirelles ,Kátia Lund,130,2002,Crime/Drama,3300000.0,7563397.0,8.6,574569,tt0317248
+21,Se7en, Morgan Freeman, Brad Pitt,David Fincher ,Andrew Kevin Walker,127,1995,Crime/Drama/Mystery,33000000.0,100125340.0,8.6,1120053,tt0114369
+22,The Silence of the Lambs, Jodie Foster, Anthony Hopkins,Jonathan Demme ,Thomas Harris,118,1991,Crime/Drama/Thriller,19000000.0,130727000.0,8.6,977007,tt0102926
+23,It's a Wonderful Life, James Stewart, Donna Reed,Frank Capra ,Frances Goodrich,130,1946,Drama/Family/Fantasy,3180000.0,,8.6,303949,tt0038650
+24,La vita è bella, Roberto Benigni, Nicoletta Braschi,Roberto Benigni ,Vincenzo Cerami,116,1997,Comedy/Drama/War,20000000.0,57598247.0,8.6,468514,tt0118799
+25,The Usual Suspects, Kevin Spacey, Gabriel Byrne,Bryan Singer ,Christopher McQuarrie,106,1995,Crime/Drama/Mystery,6000000.0,23272306.0,8.6,804933,tt0114814
+26,Léon, Jean Reno, Gary Oldman,Luc Besson ,Luc Besson,110,1994,Crime/Drama/Thriller,32346209.0,32346209.0,8.5,795462,tt0110413
+27,Saving Private Ryan, Tom Hanks, Matt Damon,Steven Spielberg ,Robert Rodat,169,1998,Drama/War,70000000.0,216119491.0,8.5,966352,tt0120815
+28,Sen to Chihiro no kamikakushi, Daveigh Chase, Suzanne Pleshette,Hayao Miyazaki ,Hayao Miyazaki,125,2001,Animation/Adventure/Family,19000000.0,10049886.0,8.5,468401,tt0245429
+29,Once Upon a Time in the West, Henry Fonda, Charles Bronson,Sergio Leone ,Sergio Donati,164,1968,Western,5000000.0,,8.5,236210,tt0064116
+30,American History X, Edward Norton, Edward Furlong,Tony Kaye ,David McKenna,119,1998,Crime/Drama,7500000.0,6712241.0,8.5,847590,tt0120586
+31,Interstellar, Matthew McConaughey, Anne Hathaway,Christopher Nolan ,Jonathan Nolan,169,2014,Adventure/Drama/Sci-Fi,165000000.0,187991439.0,8.5,1074183,tt0816692
+32,Psycho, Anthony Perkins, Janet Leigh,Alfred Hitchcock ,Joseph Stefano,109,1960,Horror/Mystery/Thriller,806947.0,32000000.0,8.5,462755,tt0054215
+33,Casablanca, Humphrey Bogart, Ingrid Bergman,Michael Curtiz ,Julius J. Epstein,102,1942,Drama/Romance/War,950000.0,,8.5,419316,tt0034583
+34,City Lights, Charles Chaplin, Virginia Cherrill,Charles Chaplin ,Charles Chaplin,87,1931,Comedy/Drama/Romance,1500000.0,,8.5,121252,tt0021749
+35,The Green Mile, Tom Hanks, Michael Clarke Duncan,Frank Darabont ,Stephen King,189,1999,Crime/Drama/Fantasy,60000000.0,136801374.0,8.5,867377,tt0120689
+36,The Intouchables, François Cluzet, Omar Sy,Olivier Nakache ,Eric Toledano,112,2011,Biography/Comedy/Drama,11274626.157132685,13179837.0,8.5,569107,tt1675434
+37,Modern Times, Charles Chaplin, Paulette Goddard,Charles Chaplin ,Charles Chaplin,87,1936,Comedy/Drama/Family,1500000.0,163245.0,8.5,159726,tt0027977
+38,Raiders of the Lost Ark, Harrison Ford, Karen Allen,Steven Spielberg ,Lawrence Kasdan,115,1981,Action/Adventure,18000000.0,242374454.0,8.5,715411,tt0082971
+39,The Pianist, Adrien Brody, Thomas Kretschmann,Roman Polanski ,Ronald Harwood,150,2002,Biography/Drama/Music,35000000.0,32519322.0,8.5,550649,tt0253474
+40,Rear Window, James Stewart, Grace Kelly,Alfred Hitchcock ,John Michael Hayes,112,1954,Mystery/Thriller,1000000.0,24500000.0,8.5,345526,tt0047396
+41,The Departed, Leonardo DiCaprio, Matt Damon,Martin Scorsese ,William Monahan,151,2006,Crime/Drama/Thriller,90000000.0,132373442.0,8.5,951100,tt0407887
+42,Terminator 2: Judgment Day, Arnold Schwarzenegger, Linda Hamilton,James Cameron ,James Cameron,137,1991,Action/Sci-Fi/Thriller,102000000.0,204843350.0,8.5,804285,tt0103064
+43,Back to the Future, Michael J. Fox, Christopher Lloyd,Robert Zemeckis ,Robert Zemeckis,116,1985,Adventure/Comedy/Sci-Fi,19000000.0,210609762.0,8.5,805909,tt0088763
+44,Whiplash, Miles Teller, J.K. Simmons,Damien Chazelle ,Damien Chazelle,107,2014,Drama/Music,3300000.0,13092000.0,8.5,491818,tt2582802
+45,Gladiator, Russell Crowe, Joaquin Phoenix,Ridley Scott ,David Franzoni,155,2000,Action/Adventure/Drama,103000000.0,187670866.0,8.5,1068867,tt0172495
+46,The Prestige, Christian Bale, Hugh Jackman,Christopher Nolan ,Jonathan Nolan,130,2006,Drama/Mystery/Sci-Fi,40000000.0,53082743.0,8.5,930014,tt0482571
+47,Memento, Guy Pearce, Carrie-Anne Moss,Christopher Nolan ,Christopher Nolan,113,2000,Mystery/Thriller,9000000.0,25530884.0,8.5,917538,tt0209144
+48,The Lion King, Matthew Broderick, Jeremy Irons,Roger Allers ,Rob Minkoff,88,1994,Animation/Adventure/Drama,45000000.0,422783777.0,8.5,712593,tt0110357
+49,Apocalypse Now, Martin Sheen, Marlon Brando,Francis Ford Coppola ,John Milius,153,1979,Drama/War,31500000.0,78800000.0,8.5,486088,tt0078788
+50,Alien, Sigourney Weaver, Tom Skerritt,Ridley Scott ,Dan O'Bannon,117,1979,Horror/Sci-Fi,11000000.0,78900000.0,8.4,624484,tt0078748
+51,Sunset Blvd., William Holden, Gloria Swanson,Billy Wilder ,Charles Brackett,110,1950,Drama/Film-Noir,1752000.0,,8.4,153036,tt0043014
+52,The Great Dictator, Charles Chaplin, Paulette Goddard,Charles Chaplin ,Charles Chaplin,125,1940,Comedy/Drama/War,2000000.0,,8.4,152828,tt0032553
+53,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Peter Sellers, George C. Scott,Stanley Kubrick ,Stanley Kubrick,95,1964,Comedy,1800000.0,,8.4,369947,tt0057012
+54,Nuovo Cinema Paradiso, Philippe Noiret, Enzo Cannavale,Giuseppe Tornatore ,Giuseppe Tornatore,155,1988,Drama,5000000.0,11990401.0,8.4,169011,tt0095765
+55,The Lives of Others, Ulrich Mühe, Martina Gedeck,Florian Henckel von Donnersmarck ,Florian Henckel von Donnersmarck,137,2006,Drama/Thriller,2000000.0,11284657.0,8.4,282276,tt0405094
+56,Dunkirk, Fionn Whitehead, Damien Bonnard,Christopher Nolan ,Christopher Nolan,106,2017,Action/Drama/History,100000000.0,115955738.0,8.4,133651,tt5013056
+57,Hotaru no haka, Tsutomu Tatsumi, Ayano Shiraishi,Isao Takahata ,Akiyuki Nosaka,89,1988,Animation/Drama/War,3700000.0,,8.4,157995,tt0095327
+58,Paths of Glory, Kirk Douglas, Ralph Meeker,Stanley Kubrick ,Stanley Kubrick,88,1957,Drama/War,935000.0,,8.4,133176,tt0050825
+59,Django Unchained, Jamie Foxx, Christoph Waltz,Quentin Tarantino ,Quentin Tarantino,165,2012,Drama/Western,100000000.0,162804648.0,8.4,1056185,tt1853728
+60,The Shining, Jack Nicholson, Shelley Duvall,Stanley Kubrick ,Stephen King,144,1980,Drama/Horror,19000000.0,,8.4,670756,tt0081505
+61,WALL·E, Ben Burtt, Elissa Knight,Andrew Stanton ,Andrew Stanton,98,2008,Animation/Adventure/Family,180000000.0,223806889.0,8.4,789547,tt0910970
+62,American Beauty, Kevin Spacey, Annette Bening,Sam Mendes ,Alan Ball,122,1999,Drama/Romance,15000000.0,130058047.0,8.4,889366,tt0169547
+63,The Dark Knight Rises, Christian Bale, Tom Hardy,Christopher Nolan ,Jonathan Nolan,164,2012,Action/Thriller,250000000.0,448130642.0,8.4,1240223,tt1345836
+64,Mononoke-hime, Yôji Matsuda, Yuriko Ishida,Hayao Miyazaki ,Hayao Miyazaki,134,1997,Animation/Adventure/Fantasy,21798365.122615807,2298191.0,8.4,248154,tt0119698
+65,Aliens, Sigourney Weaver, Michael Biehn,James Cameron ,James Cameron,137,1986,Action/Adventure/Sci-Fi,18500000.0,85200000.0,8.4,533700,tt0090605
+66,Oldeuboi, Min-sik Choi, Ji-tae Yu,Chan-wook Park ,Garon Tsuchiya,120,2003,Drama/Mystery/Thriller,3000000.0,2181290.0,8.4,394063,tt0364569
+67,Once Upon a Time in America, Robert De Niro, James Woods,Sergio Leone ,Harry Grey,229,1984,Crime/Drama,30000000.0,5300000.0,8.4,241027,tt0087843
+68,Witness for the Prosecution, Tyrone Power, Marlene Dietrich,Billy Wilder ,Agatha Christie,116,1957,Crime/Drama/Mystery,3000000.0,,8.4,72517,tt0051201
+69,Das Boot, Jürgen Prochnow, Herbert Grönemeyer,Wolfgang Petersen ,Wolfgang Petersen,149,1981,Adventure/Drama/Thriller,14000000.0,11433134.0,8.3,182136,tt0082096
+70,Citizen Kane, Orson Welles, Joseph Cotten,Orson Welles ,Herman J. Mankiewicz,119,1941,Drama/Mystery,839727.0,,8.3,321486,tt0033467
+71,North by Northwest, Cary Grant, Eva Marie Saint,Alfred Hitchcock ,Ernest Lehman,136,1959,Action/Adventure/Mystery,3101000.0,,8.3,237850,tt0053125
+72,Vertigo, James Stewart, Kim Novak,Alfred Hitchcock ,Alec Coppel,128,1958,Mystery/Romance/Thriller,2479000.0,3200000.0,8.3,274354,tt0052357
+73,Dangal, Aamir Khan, Sakshi Tanwar,Nitesh Tiwari ,Piyush Gupta,161,2016,Action/Biography/Drama,11002829.298962591,11151900.0,8.3,61898,tt5074352
+74,Star Wars: Episode VI - Return of the Jedi, Mark Hamill, Harrison Ford,Richard Marquand ,Lawrence Kasdan,131,1983,Action/Adventure/Fantasy,32500000.0,309125409.0,8.3,752892,tt0086190
+75,Braveheart, Mel Gibson, Sophie Marceau,Mel Gibson ,Randall Wallace,178,1995,Biography/Drama/History,72000000.0,75600000.0,8.3,798377,tt0112573
+76,Reservoir Dogs, Harvey Keitel, Tim Roth,Quentin Tarantino ,Quentin Tarantino,99,1992,Crime/Drama/Thriller,1200000.0,2812029.0,8.3,726257,tt0105236
+77,M, Peter Lorre, Ellen Widmann,Fritz Lang ,Thea von Harbou,117,1931,Crime/Drama/Mystery,,28877.0,8.3,108621,tt0022100
+78,Requiem for a Dream, Ellen Burstyn, Jared Leto,Darren Aronofsky ,Hubert Selby Jr.,102,2000,Drama,4500000.0,3609278.0,8.3,622133,tt0180093
+79,Amélie, Audrey Tautou, Mathieu Kassovitz,Jean-Pierre Jeunet ,Guillaume Laurant,122,2001,Comedy/Romance,,33201661.0,8.3,579887,tt0211915
+80,Taare Zameen Par, Darsheel Safary, Aamir Khan,Aamir Khan ,Amole Gupte,165,2007,Drama/Family/Music,,1204660.0,8.3,106788,tt0986264
+81,A Clockwork Orange, Malcolm McDowell, Patrick Magee,Stanley Kubrick ,Stanley Kubrick,136,1971,Crime/Drama/Sci-Fi,2200000.0,,8.3,607789,tt0066921
+82,Lawrence of Arabia, Peter O'Toole, Alec Guinness,David Lean ,T.E. Lawrence,216,1962,Adventure/Biography/Drama,15000000.0,6000000.0,8.3,210115,tt0056172
+83,Double Indemnity, Fred MacMurray, Barbara Stanwyck,Billy Wilder ,Billy Wilder,107,1944,Crime/Drama/Film-Noir,927262.0,,8.3,107811,tt0036775
+84,Taxi Driver, Robert De Niro, Jodie Foster,Martin Scorsese ,Paul Schrader,113,1976,Crime/Drama,1300000.0,,8.3,555741,tt0075314
+85,Eternal Sunshine of the Spotless Mind, Jim Carrey, Kate Winslet,Michel Gondry ,Charlie Kaufman,108,2004,Drama/Romance/Sci-Fi,20000000.0,34126138.0,8.3,727299,tt0338013
+86,Amadeus, F. Murray Abraham, Tom Hulce,Milos Forman ,Peter Shaffer,160,1984,Biography/Drama/History,18000000.0,51600000.0,8.3,295212,tt0086879
+87,To Kill a Mockingbird, Gregory Peck, John Megna,Robert Mulligan ,Harper Lee,129,1962,Crime/Drama,2000000.0,,8.3,236064,tt0056592
+88,Kimi no na wa., Ryûnosuke Kamiki, Mone Kamishiraishi,Makoto Shinkai ,Makoto Shinkai,106,2016,Animation/Drama/Fantasy,,4676810.0,8.3,43966,tt5311514
+89,Full Metal Jacket, Matthew Modine, R. Lee Ermey,Stanley Kubrick ,Gustav Hasford,116,1987,Drama/War,30000000.0,46357676.0,8.3,530761,tt0093058
+90,Toy Story 3, Tom Hanks, Tim Allen,Lee Unkrich ,John Lasseter,103,2010,Animation/Adventure/Comedy,200000000.0,414984497.0,8.3,596051,tt0435761
+91,2001: A Space Odyssey, Keir Dullea, Gary Lockwood,Stanley Kubrick ,Stanley Kubrick,149,1968,Adventure/Sci-Fi,12000000.0,56715371.0,8.3,467965,tt0062622
+92,Singin' in the Rain, Gene Kelly, Donald O'Connor,Stanley Donen ,Gene Kelly,103,1952,Comedy/Musical/Romance,2540800.0,,8.3,167374,tt0045152
+93,The Sting, Paul Newman, Robert Redford,George Roy Hill ,David S. Ward,129,1973,Comedy/Crime/Drama,5500000.0,159600000.0,8.3,191381,tt0070735
+94,Toy Story, Tom Hanks, Tim Allen,John Lasseter ,John Lasseter,81,1995,Animation/Adventure/Comedy,30000000.0,191796233.0,8.3,685092,tt0114709
+95,Ladri di biciclette, Lamberto Maggiorani, Enzo Staiola,Vittorio De Sica ,Cesare Zavattini,89,1948,Drama,133000.0,332930.0,8.3,105235,tt0040522
+96,Inglourious Basterds, Brad Pitt, Diane Kruger,Quentin Tarantino ,Eli Roth,153,2009,Adventure/Drama/War,75000000.0,120523073.0,8.3,975429,tt0361748
+97,The Kid, Charles Chaplin, Edna Purviance,Charles Chaplin ,Charles Chaplin,68,1921,Comedy/Drama/Family,250000.0,2500000.0,8.3,77504,tt0012349
+98,3 Idiots, Aamir Khan, Madhavan,Rajkumar Hirani ,Rajkumar Hirani,170,2009,Adventure/Comedy/Drama,8645080.163470607,6523137.0,8.3,245549,tt1187043
+99,Snatch, Jason Statham, Brad Pitt,Guy Ritchie ,Guy Ritchie,104,2000,Comedy/Crime,7887472.065203102,30093107.0,8.3,647822,tt0208092
+100,Monty Python and the Holy Grail, Graham Chapman, John Cleese,Terry Gilliam ,Terry Jones,91,1975,Adventure/Comedy/Fantasy,301794.3998948337,1229197.0,8.3,410628,tt0071853
+101,Per qualche dollaro in più, Clint Eastwood, Lee Van Cleef,Sergio Leone ,Sergio Leone,132,1965,Western,600000.0,,8.3,174483,tt0059578
+102,L.A. Confidential, Kevin Spacey, Russell Crowe,Curtis Hanson ,James Ellroy,138,1997,Crime/Drama/Mystery,35000000.0,64604977.0,8.3,444327,tt0119488
+103,Jagten, Mads Mikkelsen, Thomas Bo Larsen,Thomas Vinterberg ,Tobias Lindholm,115,2012,Drama,3800000.0,610968.0,8.3,197184,tt2106476
+104,Good Will Hunting, Robin Williams, Matt Damon,Gus Van Sant ,Matt Damon,126,1997,Drama,10000000.0,138339411.0,8.3,666054,tt0119217
+105,Scarface, Al Pacino, Michelle Pfeiffer,Brian De Palma ,Oliver Stone,170,1983,Crime/Drama,25000000.0,44700000.0,8.3,584286,tt0086250
+106,The Apartment, Jack Lemmon, Shirley MacLaine,Billy Wilder ,Billy Wilder,125,1960,Comedy/Drama/Romance,3000000.0,,8.2,120869,tt0053604
+107,Babam ve Oglum, Resit Kurt, Fikret Kuskan,Çagan Irmak ,Çagan Irmak,0,2005,Drama,,,8.2,48199,tt0476735
+108,Rashômon, Toshirô Mifune, Machiko Kyô,Akira Kurosawa ,Ryûnosuke Akutagawa,88,1950,Crime/Drama/Mystery,250000.0,,8.2,113234,tt0042876
+109,Jodaeiye Nader az Simin, Peyman Moaadi, Leila Hatami,Asghar Farhadi ,Asghar Farhadi,123,2011,Drama/Mystery,500000.0,7098492.0,8.2,168216,tt1832382
+110,Metropolis, Brigitte Helm, Alfred Abel,Fritz Lang ,Thea von Harbou,153,1927,Drama/Sci-Fi,,26435.0,8.2,122630,tt0017136
+111,Indiana Jones and the Last Crusade, Harrison Ford, Sean Connery,Steven Spielberg ,Jeffrey Boam,127,1989,Action/Adventure/Fantasy,48000000.0,197171806.0,8.2,559978,tt0097576
+112,All About Eve, Bette Davis, Anne Baxter,Joseph L. Mankiewicz ,Joseph L. Mankiewicz,138,1950,Drama,1400000.0,10177.0,8.2,91180,tt0042192
+113,Yôjinbô, Toshirô Mifune, Eijirô Tôno,Akira Kurosawa ,Akira Kurosawa,110,1961,Action/Drama/Thriller,,,8.2,81326,tt0055630
+114,Batman Begins, Christian Bale, Michael Caine,Christopher Nolan ,Bob Kane,140,2005,Action/Adventure,150000000.0,205343774.0,8.2,1064052,tt0372784
+115,Up, Edward Asner, Jordan Nagai,Pete Docter ,Bob Peterson,96,2009,Animation/Adventure/Comedy,175000000.0,292979556.0,8.2,734129,tt1049413
+116,Some Like It Hot, Marilyn Monroe, Tony Curtis,Billy Wilder ,Billy Wilder,121,1959,Comedy/Romance,2883848.0,25000000.0,8.2,190781,tt0053291
+117,The Treasure of the Sierra Madre, Humphrey Bogart, Walter Huston,John Huston ,John Huston,126,1948,Adventure/Drama/Western,3000000.0,,8.2,86455,tt0040897
+118,Unforgiven, Clint Eastwood, Gene Hackman,Clint Eastwood ,David Webb Peoples,131,1992,Drama/Western,14400000.0,101157447.0,8.2,301041,tt0105695
+119,Der Untergang, Bruno Ganz, Alexandra Maria Lara,Oliver Hirschbiegel ,Bernd Eichinger,156,2004,Biography/Drama/History,16021837.170662235,5501940.0,8.2,268615,tt0363163
+120,Die Hard, Bruce Willis, Alan Rickman,John McTiernan ,Roderick Thorp,131,1988,Action/Thriller,28000000.0,81350242.0,8.2,640097,tt0095016
+121,Raging Bull, Robert De Niro, Cathy Moriarty,Martin Scorsese ,Jake LaMotta,129,1980,Biography/Drama/Sport,18000000.0,45250.0,8.2,254011,tt0081398
+122,Heat, Al Pacino, Robert De Niro,Michael Mann ,Michael Mann,170,1995,Action/Crime/Drama,60000000.0,67436000.0,8.2,464604,tt0113277
+123,The Third Man, Orson Welles, Joseph Cotten,Carol Reed ,Graham Greene,104,1949,Film-Noir/Mystery/Thriller,,449191.0,8.2,124195,tt0041959
+124,Bacheha-Ye aseman, Mohammad Amir Naji, Amir Farrokh Hashemian,Majid Majidi ,Majid Majidi,89,1997,Drama/Family,180000.0,925402.0,8.2,36453,tt0118849
+125,The Great Escape, Steve McQueen, James Garner,John Sturges ,Paul Brickhill,172,1963,Adventure/Drama/History,4000000.0,,8.2,179712,tt0057115
+126,Chinatown, Jack Nicholson, Faye Dunaway,Roman Polanski ,Robert Towne,130,1974,Drama/Mystery/Thriller,6000000.0,,8.2,234408,tt0071315
+127,Ikiru, Takashi Shimura, Nobuo Kaneko,Akira Kurosawa ,Akira Kurosawa,143,1952,Drama,,55240.0,8.2,46973,tt0044741
+128,Pan's Labyrinth, Ivana Baquero, Ariadna Gil,Guillermo del Toro ,Guillermo del Toro,118,2006,Drama/Fantasy/War,16021837.170662235,37623143.0,8.2,505742,tt0457430
+129,Tonari no Totoro, Hitoshi Takagi, Noriko Hidaka,Hayao Miyazaki ,Hayao Miyazaki,86,1988,Animation/Family/Fantasy,3700000.0,,8.2,196275,tt0096283
+130,Inside Out, Amy Poehler, Bill Hader,Pete Docter ,Ronnie Del Carmen,95,2015,Animation/Adventure/Comedy,175000000.0,356454367.0,8.2,429807,tt2096673
+131,Ran, Tatsuya Nakadai, Akira Terao,Akira Kurosawa ,Akira Kurosawa,162,1985,Action/Drama,11500000.0,3522421.0,8.2,84669,tt0089881
+132,The Gold Rush, Charles Chaplin, Mack Swain,Charles Chaplin ,Charles Chaplin,95,1925,Adventure/Comedy/Drama,923000.0,,8.2,74902,tt0015864
+133,El secreto de sus ojos, Ricardo Darín, Soledad Villamil,Juan José Campanella ,Eduardo Sacheri,129,2009,Drama/Mystery/Romance,2000000.0,20167424.0,8.2,147252,tt1305806
+134,On the Waterfront, Marlon Brando, Karl Malden,Elia Kazan ,Budd Schulberg,108,1954,Crime/Drama/Thriller,910000.0,9600000.0,8.2,110260,tt0047296
+135,Incendies, Lubna Azabal, Mélissa Désormeaux-Poulin,Denis Villeneuve ,Denis Villeneuve,131,2010,Drama/Mystery/War,6800000.0,6857096.0,8.2,95412,tt1255953
+136,The Bridge on the River Kwai, William Holden, Alec Guinness,David Lean ,Pierre Boulle,161,1957,Adventure/Drama/War,3000000.0,27200000.0,8.2,162525,tt0050212
+137,Room, Brie Larson, Jacob Tremblay,Lenny Abrahamson ,Emma Donoghue,118,2015,Drama,13000000.0,14677654.0,8.2,233571,tt3170832
+138,Hauru no ugoku shiro, Chieko Baishô, Takuya Kimura,Hayao Miyazaki ,Hayao Miyazaki,119,2004,Animation/Adventure/Family,24000000.0,4710455.0,8.2,238540,tt0347149
+139,Judgment at Nuremberg, Spencer Tracy, Burt Lancaster,Stanley Kramer ,Abby Mann,186,1961,Drama/War,3000000.0,,8.2,49865,tt0055031
+140,Blade Runner, Harrison Ford, Rutger Hauer,Ridley Scott ,Hampton Fancher,117,1982,Sci-Fi/Thriller,28000000.0,27000000.0,8.2,503123,tt0083658
+141,Det sjunde inseglet, Max von Sydow, Gunnar Björnstrand,Ingmar Bergman ,Ingmar Bergman,96,1957,Drama/Fantasy,150000.0,,8.2,122371,tt0050976
+142,"Lock, Stock and Two Smoking Barrels", Jason Flemyng, Dexter Fletcher,Guy Ritchie ,Guy Ritchie,107,1998,Comedy/Crime,1261995.5304324962,3650677.0,8.2,445509,tt0120735
+143,Mr. Smith Goes to Washington, James Stewart, Jean Arthur,Frank Capra ,Sidney Buchman,129,1939,Comedy/Drama,1500000.0,,8.2,83741,tt0031679
+144,Casino, Robert De Niro, Sharon Stone,Martin Scorsese ,Nicholas Pileggi,178,1995,Crime/Drama,52000000.0,42438300.0,8.2,363115,tt0112641
+145,A Beautiful Mind, Russell Crowe, Ed Harris,Ron Howard ,Akiva Goldsman,135,2001,Biography/Drama,58000000.0,170708996.0,8.2,672142,tt0268978
+146,La La Land, Ryan Gosling, Emma Stone,Damien Chazelle ,Damien Chazelle,128,2016,Comedy/Drama/Music,30000000.0,151058124.0,8.2,289433,tt3783958
+147,The Elephant Man, Anthony Hopkins, John Hurt,David Lynch ,Christopher De Vore,124,1980,Biography/Drama,5000000.0,,8.1,175982,tt0080678
+148,Smultronstället, Victor Sjöström, Bibi Andersson,Ingmar Bergman ,Ingmar Bergman,91,1957,Drama/Romance,,,8.1,69321,tt0050986
+149,V for Vendetta, Hugo Weaving, Natalie Portman,James McTeigue ,Lilly Wachowski,132,2005,Action/Drama/Thriller,54000000.0,70496802.0,8.1,857908,tt0434409
+150,The Wolf of Wall Street, Leonardo DiCaprio, Jonah Hill,Martin Scorsese ,Terence Winter,180,2013,Biography/Comedy/Crime,100000000.0,116866727.0,8.1,881418,tt0993846
+151,The General, Buster Keaton, Marion Mack,Clyde Bruckman ,Buster Keaton,67,1926,Action/Adventure/Comedy,750000.0,,8.1,58835,tt0017925
+152,Warrior, Tom Hardy, Nick Nolte,Gavin O'Connor ,Gavin O'Connor,140,2011,Action/Drama/Sport,25000000.0,13651662.0,8.1,360871,tt1291584
+153,Andrei Rublev, Anatoliy Solonitsyn, Ivan Lapikov,Andrei Tarkovsky ,Andrey Konchalovskiy,165,1966,Biography/Drama/History,,,8.1,27375,tt0060107
+154,Eskiya, Sener Sen, Ugur Yücel,Yavuz Turgul ,Yavuz Turgul,128,1996,Crime/Drama/Thriller,,,8.1,42240,tt0116231
+155,Trainspotting, Ewan McGregor, Ewen Bremner,Danny Boyle ,John Hodge,94,1996,Drama,3500000.0,16501785.0,8.1,524295,tt0117951
+156,Logan, Hugh Jackman, Patrick Stewart,James Mangold ,James Mangold,137,2017,Action/Drama/Sci-Fi,97000000.0,226276809.0,8.1,353319,tt3315342
+157,Dial M for Murder, Ray Milland, Grace Kelly,Alfred Hitchcock ,Frederick Knott,105,1954,Crime/Film-Noir/Thriller,1400000.0,12562.0,8.1,118120,tt0046912
+158,Sunrise: A Song of Two Humans, George O'Brien, Janet Gaynor,F.W. Murnau ,Carl Mayer,94,1927,Drama/Romance,,,8.1,33147,tt0018455
+159,Gran Torino, Clint Eastwood, Bee Vang,Clint Eastwood ,Nick Schenk,116,2008,Drama,33000000.0,148085755.0,8.1,603259,tt1205489
+160,The Deer Hunter, Robert De Niro, Christopher Walken,Michael Cimino ,Michael Cimino,183,1978,Drama/War,15000000.0,,8.1,251525,tt0077416
+161,Gone with the Wind, Clark Gable, Vivien Leigh,Victor Fleming ,George Cukor,238,1939,Drama/History/Romance,3977000.0,198655278.0,8.1,232824,tt0031381
+162,Fargo, William H. Macy, Frances McDormand,Joel Coen ,Ethan Coen,98,1996,Crime/Drama/Thriller,7000000.0,25882374.0,8.1,494741,tt0116282
+163,The Sixth Sense, Bruce Willis, Haley Joel Osment,M. Night Shyamalan ,M. Night Shyamalan,107,1999,Drama/Mystery/Thriller,40000000.0,293501675.0,8.1,758429,tt0167404
+164,The Big Lebowski, Jeff Bridges, John Goodman,Joel Coen ,Ethan Coen,117,1998,Comedy/Crime,15000000.0,17439163.0,8.1,585659,tt0118715
+165,The Thing, Kurt Russell, Wilford Brimley,John Carpenter ,Bill Lancaster,109,1982,Horror/Mystery/Sci-Fi,15000000.0,13782838.0,8.1,283672,tt0084787
+166,Hacksaw Ridge, Andrew Garfield, Sam Worthington,Mel Gibson ,Robert Schenkkan,139,2016,Biography/Drama/History,40000000.0,67115062.0,8.1,243050,tt2119532
+167,Finding Nemo, Albert Brooks, Ellen DeGeneres,Andrew Stanton ,Lee Unkrich,100,2003,Animation/Adventure/Comedy,94000000.0,380838870.0,8.1,762604,tt0266543
+168,No Country for Old Men, Tommy Lee Jones, Javier Bardem,Ethan Coen ,Joel Coen,122,2007,Crime/Drama/Thriller,25000000.0,74273505.0,8.1,670543,tt0477348
+169,Tôkyô monogatari, Chishû Ryû, Chieko Higashiyama,Yasujirô Ozu ,Kôgo Noda,136,1953,Drama,,,8.1,31845,tt0046438
+170,Rang De Basanti, Aamir Khan, Soha Ali Khan,Rakeysh Omprakash Mehra ,Renzil D'Silva,157,2006,Comedy/Drama/History,,2197331.0,8.1,82666,tt0405508
+171,Cool Hand Luke, Paul Newman, George Kennedy,Stuart Rosenberg ,Donn Pearce,126,1967,Crime/Drama,3200000.0,,8.1,129126,tt0061512
+172,La passion de Jeanne d'Arc, Maria Falconetti, Eugene Silvain,Carl Theodor Dreyer ,Joseph Delteil,110,1928,Biography/Drama/History,,,8.1,29804,tt0019254
+173,Rebecca, Laurence Olivier, Joan Fontaine,Alfred Hitchcock ,Daphne Du Maurier,130,1940,Drama/Mystery/Romance,1288000.0,,8.1,95178,tt0032976
+174,There Will Be Blood, Daniel Day-Lewis, Paul Dano,Paul Thomas Anderson ,Paul Thomas Anderson,158,2007,Drama/History,25000000.0,40218903.0,8.1,407228,tt0469494
+175,Baby Driver, Ansel Elgort, Jon Bernthal,Edgar Wright ,Edgar Wright,112,2017,Action/Crime/Music,34000000.0,94500930.0,8.1,75647,tt3890160
+176,Kill Bill: Vol. 1, Uma Thurman, David Carradine,Quentin Tarantino ,Quentin Tarantino,111,2003,Action/Crime/Thriller,30000000.0,70098138.0,8.1,797361,tt0266697
+177,How to Train Your Dragon, Jay Baruchel, Gerard Butler,Dean DeBlois ,Chris Sanders,98,2010,Animation/Action/Adventure,165000000.0,217387997.0,8.1,531982,tt0892769
+178,Idi i smotri, Aleksey Kravchenko, Olga Mironova,Elem Klimov ,Ales Adamovich,142,1985,Drama/War,,,8.1,31127,tt0091251
+179,A Wednesday, Anupam Kher, Naseeruddin Shah,Neeraj Pandey ,Neeraj Pandey,0,2008,Crime/Drama/Mystery,,,8.1,53171,tt1280558
+180,Mary and Max, Toni Collette, Philip Seymour Hoffman,Adam Elliot ,Adam Elliot,92,2009,Animation/Comedy/Drama,,,8.1,131073,tt0978762
+181,Gone Girl, Ben Affleck, Rosamund Pike,David Fincher ,Gillian Flynn,149,2014,Crime/Drama/Mystery,61000000.0,167735396.0,8.1,649042,tt2267998
+182,Into the Wild, Emile Hirsch, Vince Vaughn,Sean Penn ,Sean Penn,148,2007,Adventure/Biography/Drama,15000000.0,18352454.0,8.1,465982,tt0758758
+183,Shutter Island, Leonardo DiCaprio, Emily Mortimer,Martin Scorsese ,Laeta Kalogridis,138,2010,Mystery/Thriller,80000000.0,127968405.0,8.1,870855,tt1130884
+184,It Happened One Night, Clark Gable, Claudette Colbert,Frank Capra ,Robert Riskin,105,1934,Comedy/Romance,325000.0,,8.1,71429,tt0025316
+185,Life of Brian, Graham Chapman, John Cleese,Terry Jones ,Graham Chapman,94,1979,Comedy,4000000.0,646124.0,8.1,293383,tt0079470
+186,Platoon, Charlie Sheen, Tom Berenger,Oliver Stone ,Oliver Stone,120,1986,Drama/War,6000000.0,137963328.0,8.1,314202,tt0091763
+187,Relatos salvajes, Darío Grandinetti, María Marull,Damián Szifron ,Damián Szifron,122,2014,Comedy/Drama/Thriller,3300000.0,3079012.0,8.1,114295,tt3011894
+188,Hotel Rwanda, Don Cheadle, Sophie Okonedo,Terry George ,Keir Pearson,121,2004,Biography/Drama/History,17500000.0,23472900.0,8.1,283898,tt0395169
+189,Rush, Daniel Brühl, Chris Hemsworth,Ron Howard ,Peter Morgan,123,2013,Action/Biography/Drama,38000000.0,26903709.0,8.1,345294,tt1979320
+190,Le salaire de la peur, Yves Montand, Charles Vanel,Henri-Georges Clouzot ,Georges Arnaud,131,1953,Adventure/Drama/Thriller,,,8.1,38982,tt0046268
+191,Network, Faye Dunaway, William Holden,Sidney Lumet ,Paddy Chayefsky,121,1976,Drama,3800000.0,,8.1,113110,tt0074958
+192,In the Name of the Father, Daniel Day-Lewis, Pete Postlethwaite,Jim Sheridan ,Gerry Conlon,133,1993,Biography/Drama,13000000.0,25010410.0,8.1,121191,tt0107207
+193,Stand by Me, Wil Wheaton, River Phoenix,Rob Reiner ,Stephen King,89,1986,Adventure/Drama,8000000.0,52287414.0,8.1,294620,tt0092005
+194,Ben-Hur, Charlton Heston, Jack Hawkins,William Wyler ,Lew Wallace,212,1959,Adventure/Drama/History,15900000.0,70000000.0,8.1,176376,tt0052618
+195,Les quatre cents coups, Jean-Pierre Léaud, Albert Rémy,François Truffaut ,François Truffaut,99,1959,Crime/Drama,,,8.1,77245,tt0053198
+196,The Grand Budapest Hotel, Ralph Fiennes, F. Murray Abraham,Wes Anderson ,Stefan Zweig,99,2014,Adventure/Comedy/Drama,25000000.0,59073773.0,8.1,541177,tt2278388
+197,Spotlight, Mark Ruffalo, Michael Keaton,Tom McCarthy ,Josh Singer,128,2015,Crime/Drama/History,20000000.0,44988180.0,8.1,278861,tt1895587
+198,Mad Max: Fury Road, Tom Hardy, Charlize Theron,George Miller ,George Miller,120,2015,Action/Adventure/Sci-Fi,150000000.0,153629485.0,8.1,648984,tt1392190
+199,Persona, Bibi Andersson, Liv Ullmann,Ingmar Bergman ,Ingmar Bergman,85,1966,Drama/Thriller,,,8.1,69533,tt0060827
+200,12 Years a Slave, Chiwetel Ejiofor, Michael Kenneth Williams,Steve McQueen ,John Ridley,134,2013,Biography/Drama/History,20000000.0,56667870.0,8.1,495791,tt2024544
+201,Million Dollar Baby, Hilary Swank, Clint Eastwood,Clint Eastwood ,Paul Haggis,132,2004,Drama/Sport,30000000.0,100422786.0,8.1,522822,tt0405159
+202,Jurassic Park, Sam Neill, Laura Dern,Steven Spielberg ,Michael Crichton,127,1993,Adventure/Sci-Fi/Thriller,63000000.0,356784000.0,8.1,676373,tt0107290
+203,Salinui chueok, Kang-ho Song, Sang-kyung Kim,Joon-ho Bong ,Joon-ho Bong,131,2003,Crime/Drama/Mystery,2800000.0,14131.0,8.1,78351,tt0353969
+204,Butch Cassidy and the Sundance Kid, Paul Newman, Robert Redford,George Roy Hill ,William Goldman,110,1969,Biography/Crime/Drama,6000000.0,102308900.0,8.1,164787,tt0064115
+205,Amores perros, Emilio Echevarría, Gael García Bernal,Alejandro González Iñárritu ,Guillermo Arriaga,154,2000,Drama/Thriller,2000000.0,5383834.0,8.1,185974,tt0245712
+206,Stalker, Alisa Freyndlikh, Aleksandr Kaydanovskiy,Andrei Tarkovsky ,Arkadiy Strugatskiy,162,1979,Drama/Sci-Fi,,247492.0,8.1,77408,tt0079944
+207,The Maltese Falcon, Humphrey Bogart, Mary Astor,John Huston ,John Huston,100,1941,Film-Noir/Mystery,375000.0,,8.1,122800,tt0033870
+208,The Truman Show, Jim Carrey, Ed Harris,Peter Weir ,Andrew Niccol,103,1998,Comedy/Drama/Sci-Fi,60000000.0,125603360.0,8.1,731204,tt0120382
+209,Munna Bhai M.B.B.S., Sunil Dutt, Sanjay Dutt,Rajkumar Hirani ,Vidhu Vinod Chopra,156,2003,Comedy/Drama/Romance,,,8.1,53244,tt0374887
+210,Hachi: A Dog's Tale, Richard Gere, Joan Allen,Lasse Hallström ,Stephen P. Lindsey,93,2009,Drama/Family,16000000.0,,8.1,182187,tt1028532
+211,Le notti di Cabiria, Giulietta Masina, François Périer,Federico Fellini ,Federico Fellini,110,1957,Drama,,752045.0,8.1,29601,tt0050783
+212,The Princess Bride, Cary Elwes, Mandy Patinkin,Rob Reiner ,William Goldman,98,1987,Adventure/Family/Fantasy,16000000.0,30857814.0,8.1,317442,tt0093779
+213,Kaze no tani no Naushika, Sumi Shimamoto, Mahito Tsujimura,Hayao Miyazaki ,Hayao Miyazaki,117,1984,Animation/Adventure/Fantasy,1000000.0,,8.1,107203,tt0087544
+214,Before Sunrise, Ethan Hawke, Julie Delpy,Richard Linklater ,Richard Linklater,101,1995,Drama/Romance,2500000.0,5400000.0,8.0,203897,tt0112471
+215,Star Wars: Episode VII - The Force Awakens, Daisy Ridley, John Boyega,J.J. Abrams ,Lawrence Kasdan,136,2015,Action/Adventure/Fantasy,245000000.0,936627416.0,8.0,676262,tt2488496
+216,Harry Potter and the Deathly Hallows: Part 2, Daniel Radcliffe, Emma Watson,David Yates ,Steve Kloves,130,2011,Adventure/Drama/Fantasy,125000000.0,380955619.0,8.0,600665,tt1201607
+217,The Grapes of Wrath, Henry Fonda, Jane Darwell,John Ford ,Nunnally Johnson,129,1940,Drama/History,800000.0,,8.0,68804,tt0032551
+218,Rocky, Sylvester Stallone, Talia Shire,John G. Avildsen ,Sylvester Stallone,120,1976,Drama/Sport,960000.0,117235247.0,8.0,412788,tt0075148
+219,Sholay, Dharmendra, Sanjeev Kumar,Ramesh Sippy ,Javed Akhtar,198,1975,Action/Adventure/Comedy,,,8.0,39979,tt0073707
+220,Prisoners, Hugh Jackman, Jake Gyllenhaal,Denis Villeneuve ,Aaron Guzikowski,153,2013,Crime/Drama/Mystery,46000000.0,60962878.0,8.0,440728,tt1392214
+221,Touch of Evil, Charlton Heston, Orson Welles,Orson Welles ,Orson Welles,95,1958,Crime/Drama/Film-Noir,829000.0,2237659.0,8.0,78843,tt0052311
+222,Gandhi, Ben Kingsley, John Gielgud,Richard Attenborough ,John Briley,191,1982,Biography/Drama/History,22000000.0,,8.0,185444,tt0083987
+223,Catch Me If You Can, Leonardo DiCaprio, Tom Hanks,Steven Spielberg ,Jeff Nathanson,141,2002,Biography/Crime/Drama,52000000.0,164435221.0,8.0,600256,tt0264464
+224,Les diaboliques, Simone Signoret, Véra Clouzot,Henri-Georges Clouzot ,Pierre Boileau,117,1955,Crime/Drama/Horror,,,8.0,46261,tt0046911
+225,Donnie Darko, Jake Gyllenhaal, Jena Malone,Richard Kelly ,Richard Kelly,113,2001,Drama/Sci-Fi/Thriller,4500000.0,194220.0,8.0,628374,tt0246578
+226,Annie Hall, Woody Allen, Diane Keaton,Woody Allen ,Woody Allen,93,1977,Comedy/Romance,4000000.0,39200000.0,8.0,210964,tt0075686
+227,"Monsters, Inc.", Billy Crystal, John Goodman,Pete Docter ,David Silverman,92,2001,Animation/Adventure/Comedy,115000000.0,289907418.0,8.0,644083,tt0198781
+228,The Bourne Ultimatum, Matt Damon, Edgar Ramírez,Paul Greengrass ,Tony Gilroy,115,2007,Action/Mystery/Thriller,110000000.0,227137090.0,8.0,532128,tt0440963
+229,The Terminator, Arnold Schwarzenegger, Linda Hamilton,James Cameron ,James Cameron,107,1984,Action/Sci-Fi,6400000.0,38400000.0,8.0,649965,tt0088247
+230,Barry Lyndon, Ryan O'Neal, Marisa Berenson,Stanley Kubrick ,Stanley Kubrick,184,1975,Adventure/Drama/History,11000000.0,,8.0,111250,tt0072684
+231,8½, Marcello Mastroianni, Anouk Aimée,Federico Fellini ,Federico Fellini,138,1963,Drama,,50690.0,8.0,85642,tt0056801
+232,The Wizard of Oz, Judy Garland, Frank Morgan,Victor Fleming ,George Cukor,102,1939,Adventure/Family/Fantasy,2800000.0,22202612.0,8.0,314077,tt0032138
+233,Groundhog Day, Bill Murray, Andie MacDowell,Harold Ramis ,Danny Rubin,101,1993,Comedy/Fantasy/Romance,14600000.0,70906973.0,8.0,477673,tt0107048
+234,La haine, Vincent Cassel, Hubert Koundé,Mathieu Kassovitz ,Mathieu Kassovitz,98,1995,Crime/Drama,3073819.1312603843,309811.0,8.0,113798,tt0113247
+235,Hera Pheri, Akshay Kumar, Paresh Rawal,Priyadarshan ,Siddique,156,2000,Comedy/Crime/Musical,,,8.0,40574,tt0242519
+236,Twelve Monkeys, Bruce Willis, Madeleine Stowe,Terry Gilliam ,Chris Marker,129,1995,Mystery/Sci-Fi/Thriller,29000001.0,56882000.0,8.0,495485,tt0114746
+237,Jaws, Roy Scheider, Robert Shaw,Steven Spielberg ,Peter Benchley,124,1975,Adventure/Drama/Thriller,8000000.0,260000000.0,8.0,449288,tt0073195
+238,Mou gaan dou, Andy Lau, Tony Chiu-Wai Leung,Wai-Keung Lau ,Alan Mak,101,2002,Crime/Drama/Mystery,6428966.0,89594.0,8.0,99098,tt0338564
+239,The Best Years of Our Lives, Fredric March, Dana Andrews,William Wyler ,Robert E. Sherwood,170,1946,Drama/Romance/War,2100000.0,23650000.0,8.0,43909,tt0036868
+240,Gangs of Wasseypur, Manoj Bajpayee, Richa Chadha,Anurag Kashyap ,Akhilesh Jaiswal,320,2012,Action/Crime/Drama,2892172.2728701667,,8.0,54821,tt1954470
+241,The Help, Emma Stone, Viola Davis,Tate Taylor ,Tate Taylor,146,2011,Drama,25000000.0,169705587.0,8.0,347123,tt1454029
+242,Beauty and the Beast, Paige O'Hara, Robby Benson,Gary Trousdale ,Kirk Wise,84,1991,Animation/Family/Fantasy,25000000.0,218967620.0,8.0,339797,tt0101414
+243,La battaglia di Algeri, Brahim Hadjadj, Jean Martin,Gillo Pontecorvo ,Franco Solinas,121,1966,Drama/War,800000.0,55908.0,8.0,41495,tt0058946
+244,Dog Day Afternoon, Al Pacino, John Cazale,Sidney Lumet ,Frank Pierson,125,1975,Biography/Crime/Drama,1800000.0,,8.0,196681,tt0072890
+245,Faa yeung nin wa, Tony Chiu-Wai Leung, Maggie Cheung,Kar-Wai Wong ,Kar-Wai Wong,98,2000,Drama/Romance,,2734044.0,8.0,85002,tt0118694
+246,Pirates of the Caribbean: The Curse of the Black Pearl, Johnny Depp, Geoffrey Rush,Gore Verbinski ,Ted Elliott,143,2003,Action/Adventure/Fantasy,140000000.0,305388685.0,8.0,876226,tt0325980
+247,What Ever Happened to Baby Jane?, Bette Davis, Joan Crawford,Robert Aldrich ,Henry Farrell,134,1962,Drama/Horror/Thriller,980000.0,,8.0,38402,tt0056687
+248,"Paris, Texas", Harry Dean Stanton, Nastassja Kinski,Wim Wenders ,L.M. Kit Carson,145,1984,Drama,1527540.423294334,,8.0,56104,tt0087884
+249,PK, Aamir Khan, Anushka Sharma,Rajkumar Hirani ,Rajkumar Hirani,153,2014,Comedy/Drama/Fantasy,,10572800.0,8.0,107696,tt2338151

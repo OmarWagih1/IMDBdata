@@ -3,7 +3,7 @@ import pandas as pd
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 import pickle
-
+##This file will scrape the top 250 page and get all the titles, ratings, users rated, and some other information, next file 'ScrapeMovieData' gets a lot of other information from the movie's specific page.
 url = 'http://www.imdb.com/chart/top?ref_=nv_mv_250_6'
 
 Client = uReq(url)

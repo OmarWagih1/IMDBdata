@@ -16,8 +16,8 @@ Writer = ''
 Gross = ''
 Genres = ''
 ##Disclaimer, This script sometimes stops working after a couple of tens requests to IMDB, so instead of saving it to a Pickle file directly i saved the results into a .csv file, if the script stops working just get
-##the last number,change it in the range and repeat.
-for i in range(63,66):
+##the last ovie number,change it in the range and repeat. Next file is going to merge the dataframe of the top 250 movies with this data.
+for i in range(0,250):
     url = 'http://www.imdb.com/title/'+d.iloc[i]['id']+'/'
     print(d.iloc[i]['id'])
     Client = uReq(url)

@@ -4,6 +4,7 @@ import numpy as np
 import pickle
 import json
 import requests, re
+##This is not accurate, some of these movies were produced 50+ years ago in which the currency value may have changed significantly.
 with open('ScrapedData3','rb') as f:
   d = pickle.load(f)
 Currencies = requests.get('http://api.fixer.io/latest?base=USD').json()
